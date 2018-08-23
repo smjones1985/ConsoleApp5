@@ -10,6 +10,7 @@ namespace ConsoleApp5
     {
         static void Main(string[] args)
         {
+            //test
             //Write an application that will let you keep a tally of how well six salesmen are 
             //performing selling three different products.You should use a two - dimensional array 
             //    to solve the problem.Allow the user to input the any number of sales amounts.
